@@ -2,5 +2,3 @@ requests
 flask
 flask_cors
 werkzeug
-logging
-
