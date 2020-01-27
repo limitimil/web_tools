@@ -1,0 +1,1 @@
+web: cd vue; npm install & npm run serve
